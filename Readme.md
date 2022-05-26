@@ -2,7 +2,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRUuazoiYx-EW74ljEgmJq8rYFv0-4dCzmg&usqp=CAU" />
 
-
 ## Что такое Git?
 
 ***Git - это одна из реализаций распределённых систем контроля версий, имеющая как и локальные, так и удалённые репозитории. Является самой популярной реализацией систем контроля версий в мире.***
@@ -49,4 +48,8 @@
 
 ## Руководство по оформлению Markdown файлов
 
-[Ссылка на статью](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRUuazoiYx-EW74ljEgmJq8rYFv0-4dCzmg&usqp=CAU "прочитай на досуге, дружок")
+### [Ссылка на статью](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRUuazoiYx-EW74ljEgmJq8rYFv0-4dCzmg&usqp=CAU "прочитай на досуге, дружок")
+
+<img src=C:\Users\shishonkov\Desktop\Git\синтаксис.jpeg>
+
+
