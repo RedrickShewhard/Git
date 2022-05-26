@@ -36,7 +36,7 @@
 
 ### Создание ветки
 
-> Для того, чтобы создать ветку, используется команда *git branch*. 
+> Для того, чтобы создать ветку, используется команда *git branch*.
 >>Делается это следующим образом в папке с репозиторием: *git branch <название новой ветки>*
 
 ### Слияние веток
@@ -47,10 +47,10 @@
 
 * Для удаления ветки ввести команду "git branch -d 'name branch'"
 
+<a name="Оформление Markdown файлов"></a>
+
 ## Руководство по оформлению Markdown файлов
 
-### [Ссылка на статью](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRUuazoiYx-EW74ljEgmJq8rYFv0-4dCzmg&usqp=CAU "прочитай на досуге, дружок")
+### [Ссылка на статью](https://gist.github.com/Jekins/2bf2d0638163f1294637 "прочитай на досуге, дружок")
 
 <img src=C:\Users\shishonkov\Desktop\Git\синтаксис.jpeg>
-
-
