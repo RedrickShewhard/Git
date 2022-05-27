@@ -77,7 +77,7 @@ Cell   | Cell
 Column | Column | Column
 :----- | :----: | -----:
 Left   | Center | Right
-align  | align  | align 
+align  | align  | align
 
 <a id="Именованные якоря"></a>
 
@@ -90,3 +90,6 @@ align  | align  | align
 ссылка на пункт назначения
 
 [link text](#destinationLinkName)
+
+~~И да пребудет с тобой сила~~
+![](https://miro.medium.com/max/880/0*cesFJY5JFpI0Rl4v.jpg)
