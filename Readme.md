@@ -92,4 +92,5 @@ align  | align  | align
 [link text](#destinationLinkName)
 
 ~~И да пребудет с тобой сила~~
+
 ![](https://miro.medium.com/max/880/0*cesFJY5JFpI0Rl4v.jpg)
