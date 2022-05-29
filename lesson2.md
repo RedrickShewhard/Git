@@ -28,6 +28,9 @@
 
 ## Работа с таблицами
 
+> Таблицы поддерживаются только в определенных вариантах Markdown, включая Markdown Extra и Github Flavored Markdown , но не в исходном синтаксисе Markdown или в CommonMark .
+Таблицы Markdown также не поддерживаются на сайтах Stack Exchange (за исключением бета-версии Documentation ).
+
 ## Цитаты
 
 ## Заключение
