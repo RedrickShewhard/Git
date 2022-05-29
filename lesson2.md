@@ -61,3 +61,5 @@ align  | align  | align
 >> пример цитаты второго уровня
 
 ## Заключение
+
+[Удобный краткий мануал по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/ "добавь в закладки")
